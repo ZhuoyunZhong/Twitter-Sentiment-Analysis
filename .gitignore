@@ -1,0 +1,7 @@
+# cache
+.vscode/
+__pycache__/
+*.pyc
+
+# dataset
+training.1600000.processed.noemoticon.csv
