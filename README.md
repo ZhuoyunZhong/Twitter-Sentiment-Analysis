@@ -1,5 +1,5 @@
 # Tweet-Sentiment-Analysis
-Tweet sentiment analysis with machine learning and deep learning methods. The used embedding methods are TF-IDF and Word2Vec. The trained classic machine learning models are Bernoulli Naive Bayes, Logistic Regression, SVM. The deep learning models are LSTM, C-LSTM and Bi-LSTM-CNN.
+Tweet sentiment analysis with machine learning and deep learning methods. The used embedding methods are TF-IDF and Word2Vec. The trained classic machine learning models are Bernoulli Naive Bayes, Logistic Regression, SVM. The deep learning models are [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory), [C-LSTM](https://arxiv.org/abs/1511.08630) and [Bi-LSTM-CNN](https://ieeexplore.ieee.org/abstract/document/8589431).
 
 ### Prerequisite
 
